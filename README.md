@@ -150,6 +150,8 @@ int main(int argc, char *argv[]) {
 
 
 ## OUTPUT
+![](img/filecopy.png) 
+
 ![](img/filelock.png) 
 
 # RESULT:
